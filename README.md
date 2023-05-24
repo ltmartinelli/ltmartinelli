@@ -1,4 +1,4 @@
-### L.T. Martinelli 👋
+### L.T. Martinelli
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ltmartinelli/)
 [![Website](https://img.shields.io/badge/-Website-green?style=flat-square&logo=html5&logoColor=white)](https://ltmartinelli-dev.netlify.app/)
