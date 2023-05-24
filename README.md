@@ -32,3 +32,5 @@ Full Stack Trainee Developer, constantly seeking opportunities to expand my know
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with feedback on my portfolio
 - 💬 Ask me about how I got interested in coding and development
+
+:email: lucastrindademartinelli@gmail.com
