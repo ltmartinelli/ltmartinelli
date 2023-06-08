@@ -30,7 +30,7 @@ Studying to become a Full Stack Developer, constantly seeking opportunities to e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width=20 height=20/> Photoshop
 
 - 🔭 I’m currently working on student projects for my personal portfolio
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with feedback on my portfolio
 - 💬 Ask me about how I got interested in coding and development
