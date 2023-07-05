@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ltmartinelli/)
 [![Website](https://img.shields.io/badge/-Website-green?style=flat-square&logo=html5&logoColor=white)](https://ltm-dev.netlify.app/)
 
-Full Stack Developer, constantly seeking opportunities to expand my knowledge and gain experience. I learn new technologies and skills quickly. Currently studying Computer Sciences at La Salle University. I also have an MBA in Business Management (La Salle University) and a Bachelor's degree in Psychology (Federal University of Health Sciences of Porto Alegre).
+Back End Developer, constantly seeking opportunities to expand my knowledge and gain experience. I'm currently studying Computer Sciences at La Salle University.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=20 height=20/> Java 
 
