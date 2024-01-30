@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ltmartinelli/)
 [![Website](https://img.shields.io/badge/-Website-green?style=flat-square&logo=html5&logoColor=white)](https://ltm-dev.netlify.app/)
 
-Back End Developer, constantly seeking opportunities to expand my knowledge and gain experience. I'm currently studying Computer Sciences at La Salle University.
+Hello! I'm a Computer Science student with interest in Back-End development, Data Analysis and Data Engineering!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=20 height=20/> Java 
 
@@ -30,9 +30,9 @@ Back End Developer, constantly seeking opportunities to expand my knowledge and 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width=20 height=20/> Photoshop
 
 - 🔭 I’m currently working on student projects for my personal portfolio
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Web Development
+- 🌱 I’m currently studying Data Analysis, Python, Excel, Power BI 
+- 👯 I’m looking to collaborate on Web Development and Data Analysis
 - 🤔 I’m looking for help with feedback on my portfolio
-- 💬 Ask me about how I got interested in coding and development
+- 💬 Ask me about how I got interested in coding and development!
 
 :email: lucastrindademartinelli@gmail.com
