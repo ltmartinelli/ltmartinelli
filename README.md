@@ -21,13 +21,9 @@ Hello! I'm a Computer Science student with interest in Back-End development, Dat
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=20 height=20 /> React
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=20 height=20/> Bootstrap
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=20 height=20/> Figma 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=20 height=20/> Git
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width=20 height=20/> Photoshop
 
 - 🔭 I’m currently working on student projects for my personal portfolio
 - 🌱 I’m currently studying Data Analysis, Python, Excel, Power BI 
