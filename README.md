@@ -9,7 +9,9 @@ Hello! I'm a Computer Science student with interest in Back-End development, Dat
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=20 height=20/> Spring 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=20 height=20/> PostgreSQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=20 height=20/> SQL | PostgreSQL
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=20 height=20 /> Python
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=20 height=20/> C# 
 
@@ -23,11 +25,9 @@ Hello! I'm a Computer Science student with interest in Back-End development, Dat
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=20 height=20/> Figma 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=20 height=20/> Git
-
 - 🔭 I’m currently working on student projects for my personal portfolio
 - 🌱 I’m currently studying Data Analysis, Python, Excel, Power BI 
-- 👯 I’m looking to collaborate on Web Development and Data Analysis
+- 👯 I’m looking to collaborate on Back-End Development and Data Analysis
 - 🤔 I’m looking for help with feedback on my portfolio
 - 💬 Ask me about how I got interested in coding and development!
 
