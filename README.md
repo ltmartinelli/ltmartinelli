@@ -1,7 +1,11 @@
-### L.T. Martinelli
+# L.T. Martinelli
+
+## LinkedIn and Portfolio
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ltmartinelli/)
 [![Website](https://img.shields.io/badge/-Website-green?style=flat-square&logo=html5&logoColor=white)](https://ltm-dev.netlify.app/)
+
+## About Me
 
 Hello! I'm a Computer Science student with interest in Back-End development, Data Analysis and Data Engineering!
 
