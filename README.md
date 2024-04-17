@@ -1,4 +1,4 @@
-# L.T. Martinelli
+# Lucas Martinelli
 
 ## LinkedIn and Portfolio
 
